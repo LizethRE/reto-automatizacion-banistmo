@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+gradle/
+
+# Intellij
+.idea/
+
+# Archivos generados automaticamente por el compilador
+build/
+
+# Serenity
+target/
+history/
